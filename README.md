@@ -17,3 +17,6 @@ This repository contains a docker-compose.yml file that can be used to run a Dir
 6. Create a new item named "C" in the `nodes` collection ad set the node "B" as the parent
 7. Delete the node "A" and observe that the nodes "B" and "C" are also deleted
 
+### Notes
+
+Read more about this topic in my [medium article](https://medium.com/@octode.org/how-to-perform-cascade-deletion-in-directus-with-many-to-one-relationships-17d71f28b1fe)
